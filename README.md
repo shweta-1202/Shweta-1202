@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Shweta Avinash Powar
 
 ## 💫 About Me:
-I'm a passionate developer currently diving deep into the world of web development. Here's a bit about what I'm up to:
+ Here's a bit about what I'm up to:
 
-- 🔭 Current Project: I'm working on a [Contact App](https://github.com/ShwetaAvinashPowar/contact-app) using React.js.
+- 🔭 Current Project: I'm working on a [Contact App](https://github.com/Shweta-1202/contact-app) using React.js.
 - 🌱 Current Learning: I'm on a mission to master the MERN stack (MongoDB, Express.js, React.js, Node.js).
-- 🕵️‍♀️ When I'm not coding, you can find me exploring new tech trends, enjoying a good cup of coffee, or sharing moments on Instagram. Let's connect and grow together!
+- 🕵️‍♀️ When I'm not coding, you can find me exploring new tech trends, enjoying a good cup of tea.
 
 ## 🌐 Connect with me:
-- [Instagram](https://www.instagram.com/YourInstagramUsername)
-- [GitHub](https://github.com/ShwetaAvinashPowar)
-- [Email](mailto:your.email@example.com)
+- [GitHub](https://github.com/Shweta-1202)
+- [Email]Mailto:Shwetapowar1202@gmail.com
 
 ## 💻 Tech Stack:
 
