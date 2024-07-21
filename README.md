@@ -48,10 +48,3 @@ Here's a bit about what I'm up to:
 
 ![Shweta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-1202&layout=compact&theme=radical)
 
-## 🔝 Top Contributed Repo
-
-[![Contact App](https://github-contributor-stats.vercel.app/api?username=Shweta-1202&repo=contact-app)](https://github.com/Shweta-1202/contact-app)
-
-
-[![Weather-App](https://github-contributor-stats.vercel.app/api?username=Shweta-1202&repo=Weather-App)](https://github.com/Shweta-1202/Weather-App)
-
